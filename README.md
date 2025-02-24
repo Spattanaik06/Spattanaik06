@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spattanaik06
 - 🧑‍💻 java Full Stack Developer
 - 👀 I’m interested in java and Blockchain
-- 🌱 I’m currently learning Springboot and Microservice
+- 🌱 Specializes on Springboot and Microservice
 - 📫 sureshpattanaik14920@gmail.com
 - 📲 +91-6372769742 / +91-9114092001
 
