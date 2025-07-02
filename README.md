@@ -3,7 +3,7 @@
 - 👀 I’m interested in java and Blockchain
 - 🌱 Specializes on Springboot and Microservice
 - 📫 sureshpattanaik14920@gmail.com
-- 📲 +91-6372769742 / +91-9114092001
+- 📲 +91-6372769742 / +91-8951550108
 
 <!---
 Spattanaik06/Spattanaik06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
